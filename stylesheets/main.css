@@ -9,12 +9,14 @@ body{
 	margin-right: auto;
 }
 #header{
-	background-color: #66ccff;
+	background-color: hsla(0,0%,0%,0.6);
 	color: white;
+	border:2px solid rgb(0, 185, 221);
 	text-align: center;
 	padding: 10px;
 }
 #nav{
+	padding: 10px;
 	width: 10px;
 	float: left;
 }
@@ -24,25 +26,26 @@ body{
 }
 a{
 	text-decoration: none;
-	color: red;
+	color: blue;
 }
 h1, h2, h3{
 	margin: 0;
 }
-#nav.selected{
+.selected{
 	font-weight: bold;
 }
 #content{
 	padding: 10px;
 }
 #main{
+	padding: 10px;
 	width: 750px;
 	float: right;
 }
 #footer{
 	clear: both;
 	padding: 10px;
-	background-color: #999999;
+	background-color: hsla(0,0%,0%,0.4);
 	color: white;
 	text-align: right;
 }
