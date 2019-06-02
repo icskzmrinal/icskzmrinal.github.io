@@ -1,15 +1,4 @@
-/**
- *	Animated Graph Tutorial for Smashing Magazine
- *	July 2011
- *   
- * 	Author:	Derek Mack
- *			derekmack.com
- *			@derek_mack
- *
- *	Example 3 - Animated Bar Chart via jQuery
- */
 
-// Wait for the DOM to load everything, just to be safe
 $(document).ready(function() {
   // hide table if js enabled
   $('#data-table').addClass('js');

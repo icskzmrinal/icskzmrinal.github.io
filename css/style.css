@@ -980,6 +980,12 @@ h3.tittle-csk1 {
     color: #ffffff;
     font-weight: 500;
 }
+h3.sub-tittle-csk {
+    text-shadow: 2px 2px 2px rgba(41, 41, 41, 0.15);
+    font-size: 1.5em;
+    color: #333338;
+    font-weight: 500;
+}
 /*----*/
 
 h4.progress-tittle-csk {
@@ -1010,7 +1016,7 @@ h4.progress-tittle-csk {
     
 }
 .quotes {
-    background: url(../images/x1.jpeg) no-repeat 0px 0px;
+    background: url(../images/x14.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
